@@ -1,4 +1,4 @@
-# Project-Euler
+# Project-Euler.Net
 
 Project Euler is a website where you can improve your algorithm  skills. 
 
